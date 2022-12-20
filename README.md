@@ -1,4 +1,4 @@
-- Meu nome é @carolynacibellyc
+- Meu nome é Carolyna Cibelly
 - Sou completamente apaixonada pela cultura DevOps
 - Nível Técnico em Tecnologia da Informação
 - Graduada em Redes de Computadores
