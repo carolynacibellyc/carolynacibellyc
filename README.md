@@ -4,6 +4,7 @@
 - Graduada em Redes de Computadores
 - Já participei de diversos projetos de Pesquisa na área de TI
 - Em constante aprendizado e me atualizando das novas tecnologias
+- carolynacibellyc@gmail.com
 
 
                                 Linguagens e Ferramentas
